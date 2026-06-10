@@ -1,0 +1,103 @@
+company_id,company_name,health_score,health_label
+ABB,Abbott India Ltd,44.6,WEAK
+ADANIENSOL,Adani Energy Solutions Ltd,40.4,WEAK
+ADANIENT,Adani Enterprises Ltd,43.1,WEAK
+ADANIGREEN,Adani Green Energy Ltd,40.0,WEAK
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,43.1,WEAK
+ADANIPOWER,Adani Power Ltd,41.7,WEAK
+AMBUJACEM,Ambuja Cements Ltd,45.6,WEAK
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",42.9,WEAK
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",45.8,WEAK
+ATGL,Adani Total Gas Ltd,40.6,WEAK
+AXISBANK,Axis Bank Ltd,33.6,POOR
+BAJAJ-AUTO,Bajaj Auto Ltd,47.0,WEAK
+BAJAJFINSV,Bajaj Finserv Ltd,38.1,WEAK
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,42.7,WEAK
+BAJFINANCE,Bajaj Finance Ltd,39.4,WEAK
+BANKBARODA,Bank of Baroda,28.0,POOR
+BEL,Bharat Electronics Ltd,44.1,WEAK
+BHARTIARTL,Bharti Airtel Ltd,51.4,AVERAGE
+BHEL,Bharat Heavy Electricals Limited,44.0,WEAK
+BOSCHLTD,Bosch Ltd,44.1,WEAK
+BPCL,Bharat Petroleum Corporation Ltd,57.3,AVERAGE
+BRITANNIA,Britannia Industries Ltd,45.9,WEAK
+CANBK,Canara Bank,28.8,POOR
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,39.6,WEAK
+CIPLA,Cipla Ltd,43.7,WEAK
+COALINDIA,Coal India Ltd,64.4,AVERAGE
+DABUR,Dabur India Ltd,44.5,WEAK
+DIVISLAB,Divis Laboratories Ltd,43.4,WEAK
+DLF,DLF Ltd,43.9,WEAK
+DMART,Avenue Supermarts Ltd,41.1,WEAK
+DRREDDY,Dr Reddys Laboratories Ltd,43.3,WEAK
+EICHERMOT,Eicher Motors Ltd,43.0,WEAK
+GAIL,GAIL (India) Ltd,48.2,WEAK
+GODREJCP,Godrej Consumer Products Ltd,42.8,WEAK
+GRASIM,Grasim Industries Ltd,44.0,WEAK
+HAL,Hindustan Aeronautics Ltd,45.1,WEAK
+HAVELLS,Havells India Ltd,43.6,WEAK
+HCLTECH,HCL Technologies Ltd,50.2,AVERAGE
+HDFCBANK,HDFC Bank Ltd,32.1,POOR
+HDFCLIFE,HDFC Life Insurance Company Ltd,44.7,WEAK
+HEROMOTOCO,Hero MotoCorp Ltd,48.4,WEAK
+HINDALCO,Hindalco Industries Ltd,50.9,AVERAGE
+HINDUNILVR,Hindustan Unilever Ltd,54.0,AVERAGE
+ICICIBANK,ICICI Bank Ltd,32.9,POOR
+ICICIGI,ICICI Lombard General Insurance Company Ltd,42.8,WEAK
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,45.4,WEAK
+INDIGO,Interglobe Aviation Ltd,46.3,WEAK
+INDUSINDBK,IndusInd Bank Ltd,38.8,WEAK
+INFY,Infosys Ltd,54.5,AVERAGE
+IOC,Indian Oil Corporation,63.5,AVERAGE
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,43.9,WEAK
+IRFC,Indian Railway Finance Corporation Ltd,33.4,POOR
+ITC,ITC Ltd,53.4,AVERAGE
+JINDALSTEL,Jindal Steel & Power Ltd,42.1,WEAK
+JIOFIN,Jio Financial Services Ltd,40.4,WEAK
+JSWENERGY,JSW Energy Ltd,42.7,WEAK
+JSWSTEEL,JSW Steel Ltd,46.8,WEAK
+KOTAKBANK,Kotak Mahindra Bank Ltd,38.5,WEAK
+LICI,Life Insurance Corporation of India,72.7,GOOD
+LODHA,Macrotech Developers Ltd,40.7,WEAK
+LT,Larsen & Toubro Ltd,50.4,AVERAGE
+LTIM,LTIMindtree Ltd,45.0,WEAK
+M&M,Mahindra & Mahindra Ltd,46.6,WEAK
+MARUTI,Maruti Suzuki India Ltd,47.9,WEAK
+MOTHERSON,Samvardhana Motherson International Ltd,45.1,WEAK
+NAUKRI,Info Edge (India) Ltd,39.0,WEAK
+NESTLEIND,Nestle India Ltd,47.9,WEAK
+NHPC,NHPC Ltd,45.6,WEAK
+NTPC,NTPC Ltd,51.7,AVERAGE
+ONGC,Oil & Natural Gas Corpn Ltd,70.2,GOOD
+PFC,Power Finance Corporation Ltd,32.4,POOR
+PIDILITIND,Pidilite Industries Ltd,43.5,WEAK
+PNB,Punjab National Bank,,POOR
+POWERGRID,Power Grid Corporation of India Ltd,48.9,WEAK
+RECLTD,REC Ltd,36.9,WEAK
+RELIANCE,Reliance Industries Ltd,76.7,GOOD
+SBILIFE,SBI Life Insurance Company Ltd,45.2,WEAK
+SBIN,State Bank of India,65.8,AVERAGE
+SHREECEM,Shree Cement Ltd,42.5,WEAK
+SHRIRAMFIN,Shriram Finance Ltd,39.4,WEAK
+SIEMENS,Siemens Ltd,43.1,WEAK
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,45.6,WEAK
+TATACONSUM,Tata Consumer Products Ltd,36.8,WEAK
+TATAMOTORS,Tata Motors Ltd,53.8,AVERAGE
+TATAPOWER,Tata Power Company Ltd,42.2,WEAK
+TATASTEEL,Tata Steel Ltd,47.2,WEAK
+TCS,Tata Consultancy Services Ltd,62.3,AVERAGE
+TECHM,Tech Mahindra Ltd,46.6,WEAK
+TITAN,Titan Company Ltd,43.6,WEAK
+TORNTPHARM,Torrent Pharmaceuticals Ltd,44.7,WEAK
+TRENT,Trent Ltd,40.8,WEAK
+TVSMOTOR,TVS Motor Company Ltd,42.7,WEAK
+ULTRACEMCO,,44.4,WEAK
+UNIONBANK,,32.6,POOR
+UNITDSPR,,40.4,WEAK
+VBL,,41.3,WEAK
+VEDL,,53.7,AVERAGE
+WIPRO,,47.2,WEAK
+ZOMATO,,39.7,WEAK
+ZYDUSLIFE,,42.8,WEAK
